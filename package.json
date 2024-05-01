@@ -1,0 +1,27 @@
+{
+  "name": "sagemath",
+  "version": "1.0.0",
+  "description": "SageMath implementation for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node inde.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eperezcosano/sagemath.git"
+  },
+  "keywords": [
+    "math",
+    "mathjs",
+    "sagemath",
+    "sagecell",
+    "sage",
+    "evaluate"
+  ],
+  "author": "Izan Pérez Cosano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eperezcosano/sagemath/issues"
+  },
+  "homepage": "https://github.com/eperezcosano/sagemath#readme",
+}
